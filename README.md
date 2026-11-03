@@ -8,6 +8,7 @@ My site is a small desktop you can poke around in, with an assistant called Sama
 
 | Project | What it is |
 | --- | --- |
+| [AciveLabs](https://acivelabs.com) | My best project so far: AI voice agents, chatbots and automated workflows. |
 | [InterviewPro-AI](https://github.com/thehardikverma/InterviewPro-AI) | Mock interviews in the browser: AI-generated questions, video answers, Whisper transcription and a performance report. Free and open source, bring your own key. [Try it](https://hardikverma.com/interview-pro/) |
 | [citadel](https://github.com/thehardikverma/citadel) | A vault for passwords, notes and files, encrypted in the browser with AES-256-GCM, with an AI agent that can search and add entries for you. |
 | [orbweave](https://github.com/thehardikverma/orbweave) | A site for a fictional studio, built without a framework: scroll-driven canvas hero, WebGL shader, streaming AI chat. |
